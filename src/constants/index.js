@@ -202,7 +202,7 @@ const expCards = [
     title: "Manufacturing Associate Scientist: Tissue Culture Manufacturing",
     date: "May 2013 - April 2019",
     responsibilities: [
-      "Manufactured hyybridoma supernatants, lysates, and IVD slides for viral detection.",
+      "Manufactured hybridoma supernatants, lysates, and IVD slides for viral detection.",
       "Cross-trained into Specialty Media manufacturing to support site consolidation.",
       "Led the implementation of two automation units, CAPIT-ALL and Wellmate for production filling and capping.",
       "Support provided in several Lean Six Sigma projects",
